@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="5063" systemVersion="12F45" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Customerdetails" representedClassName="Customerdetails" syncable="YES">
+        <attribute name="breafnote" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="collegelocation" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="collegestate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="currentlocation" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="decision" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="education" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emilid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="member" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nearestconferencelocation" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nextmeet" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phonenumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="photo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sharedidea" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="state" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="status" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Customerdetails" positionX="-63" positionY="-18" width="128" height="300"/>
+    </elements>
+</model>
